@@ -18,17 +18,13 @@ Your task is to build a basic Windows Forms application that displays a "Hello, 
 
 Follow these step-by-step instructions to complete the assignment:
 
-#### 1. Create a Windows Forms Project
+#### 1. Import the Assignment Repository
 
-1. Open Visual Studio.
+1. In Visual Studio, go to "File" > "Clone Repository..."
 
-2. Navigate to "File" > "New" > "Project...".
+2. Paste the assignment repository URL provided to you by the instructor.
 
-3. Select "Windows Forms App (.NET Framework)" as the project template.
-
-4. Name your project and choose a location to save it.
-
-5. Click "Create" to initiate the project.
+3. Click "Clone" to import the assignment repository into Visual Studio.
 
 #### 2. Design the User Interface (UI)
 
