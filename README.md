@@ -18,7 +18,7 @@ Your task is to build a basic Windows Forms application that displays a "Hello, 
 
 Follow these step-by-step instructions to complete the assignment:
 
-#### 1. Import the Assignment Repository
+#### Task 1: Import the Assignment Repository
 
 1. In Visual Studio, go to "File" > "Clone Repository..."
 
@@ -26,7 +26,7 @@ Follow these step-by-step instructions to complete the assignment:
 
 3. Click "Clone" to import the assignment repository into Visual Studio.
 
-#### 2. Design the User Interface (UI)
+#### Task 2: Design the User Interface (UI)
 
 1. In the Solution Explorer, double-click the Form (e.g., `Form1.cs`) to open the Form Designer.
 
@@ -34,7 +34,7 @@ Follow these step-by-step instructions to complete the assignment:
 
 3. Double-click the Button to select it and modify its Text property to "Click Me!"
 
-#### 3. Implement Button Click Event
+#### Task 3: Implement Button Click Event
 
 1. Double-click the button on the form. Visual Studio will automatically generate a button click event handler for you.
 
@@ -45,3 +45,5 @@ Follow these step-by-step instructions to complete the assignment:
    {
        MessageBox.Show("Hello, World!");
    }
+#### Task 4 (optional): Implement a simple calculator
+1. Implement a simple calculator creating the appropriate elements in the UI, event handlers and logic
